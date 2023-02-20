@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Divisas</string>
+    <string-array name="divisas">
+        <item>Bitcoin</item>
+        <item>Dolares</item>
+        <item>Lempiras</item>
+        <item>Quetzales</item>
+        <item>Cordobas</item>
+        <item>Colones Costaricenses</item>
+    </string-array>
+</resources>
